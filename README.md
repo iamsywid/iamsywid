@@ -3,7 +3,8 @@
 <pre>
 Great to see you here! I hope you're doing well!
 
-👩‍💻 I like reading, languages and note-taking! Recently trying to learn more about Zettelkasten and been exploring Obsidian.
+👩‍💻 I like reading, languages and note-taking! 
+Recently trying to learn more about Zettelkasten and been exploring Obsidian.
 
 🐢 I take long to process things. Thank you for your patience 😊
 
