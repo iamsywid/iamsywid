@@ -2,8 +2,9 @@
 
 Great to see you here! I hope you're doing well!
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=iamsywid.iamsywid)
+[![Profile views](https://visitor-badge.glitch.me/badge?page_id=iamsywid.iamsywid)][github]
 [![Twitter Follow](https://img.shields.io/twitter/follow/iamsywid?logo=twitter&style=social)][twitter]
+[![Linkedin](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin)][linkedin]
 
 ### 🧩 &nbsp; About Me
 
