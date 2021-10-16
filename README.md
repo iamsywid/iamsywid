@@ -45,9 +45,11 @@ Recently trying to learn more about Zettelkasten and been exploring [Obsidian](h
 
 🚀  &nbsp; We'll get there. Life is an adventure! &nbsp; 🌌
 
-</details>
+🌱 &nbsp; Always growing. Always learning.
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"></a>
+![growing my notes](images/growing-my-notes-00.gif)
+
+</details>
 
 [github]: https://github.com/iamsywid
 [linkedin]: https://www.linkedin.com/in/christinebalanaa/
