@@ -43,9 +43,9 @@ Recently trying to learn more about Zettelkasten and been exploring [Obsidian](h
 
 🐢 &nbsp; I may take a long time to process things.
 
-🚀  &nbsp; We'll get there. Life is an adventure! &nbsp; 🌌
+🚀 &nbsp; We'll get there. Life is an adventure! &nbsp; 🌌
 
-🌱 &nbsp; Always growing. Always learning.
+👩‍🌾 &nbsp; A time to grow. A time to learn.
 
 ![growing my notes](images/growing-my-notes-00.gif)
 
