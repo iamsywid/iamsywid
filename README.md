@@ -1,6 +1,5 @@
-<h1 align=center>Hi 👋, I'm Christine</h1>
-
-Great to see you here! I hope you're doing well!
+![hello, world](images/hello.svg)
+<div>Great to see you here! I hope you're doing well!</div>
 
 [![Profile views](https://visitor-badge.glitch.me/badge?page_id=iamsywid.iamsywid)][github]
 [![Twitter Follow](https://img.shields.io/twitter/follow/iamsywid?logo=twitter&style=social)][twitter]
