@@ -18,13 +18,12 @@
 - ⚡ Fun fact: My profile picture is a Pawikan I met while solo traveling in Panglao, Bohol &nbsp; 🏝️
 
 ### 🛠 &nbsp; Languages and Tools
-![Markdown](https://img.shields.io/badge/Markdown-white?logo=markdown&logoColor=000000&style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-white?logo=java&logoColor=007396&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-white?logo=javascript&logoColor=F7DF1E&style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-white?logo=python&logoColor=3776AB&style=for-the-badge)
-![HTML](https://img.shields.io/badge/HTML5-white?logo=html5&logoColor=E34F26&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/CSS3-white?logo=css3&logoColor=1572B6&style=for-the-badge)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-white?logo=visualstudiocode&logoColor=1572B6&style=for-the-badge)
+![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=&style=for-the-badge)
 
 <details>
 <summary>More about me</summary> 
