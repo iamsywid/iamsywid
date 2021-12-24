@@ -1,4 +1,4 @@
-![hello, world](images/hello.svg)
+![hello, world](images/hello.svg#gh-light-mode-only)
 <div>Great to see you here! I hope you're doing well!</div>
 
 [![Profile views](https://visitor-badge.glitch.me/badge?page_id=iamsywid.iamsywid)][github]
@@ -23,7 +23,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=&style=flat)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-1572B6?logo=Visual%20Studio%20Code&logoColor=&style=flat)
 
 <details>
 <summary>More about me</summary> 
