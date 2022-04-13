@@ -15,6 +15,7 @@
             }
             h1 {
                 font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+                color: orangered;
             }
             </style>
             <h1 class="typed-out">Hello, I'm Christine 👋</h1>
