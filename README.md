@@ -1,10 +1,9 @@
-![hello, world](images/hello.svg#gh-light-mode-only)
+![hello, world](images/hello.svg)
 <div>Great to see you here! I hope you're doing well!</div>
 
 [![Profile views](https://visitor-badge.glitch.me/badge?page_id=iamsywid.iamsywid)][github]
 [![Twitter Follow](https://img.shields.io/twitter/follow/iamsywid?style=social)][twitter]
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=social&logo=linkedin)][linkedin]
-
 
 
 ### 🧩 &nbsp; About Me
@@ -32,7 +31,8 @@
   ```java
     class HelloWorld {
         public static void main(String[] args) {
-            System.out.println("我特别喜欢学外语。");
+            System.out.println("Bonjour à tous! J'aime beaucoup apprendre les langues.");
+            System.out.println("我懂一点汉语。");
             System.out.println("Ich komme von den Philippinen.");
             System.out.println("Masaya akong makilala kayo. \uD83D\uDE0A");
         }
