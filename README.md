@@ -32,7 +32,7 @@
     class HelloWorld {
         public static void main(String[] args) {
             System.out.println("Bonjour à tous! J'aime beaucoup apprendre les langues.");
-            System.out.println("我懂一点汉语。");
+            System.out.println("我会一点中文。");
             System.out.println("Ich komme von den Philippinen.");
             System.out.println("Masaya akong makilala kayo. \uD83D\uDE0A");
         }
