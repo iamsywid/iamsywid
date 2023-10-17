@@ -9,7 +9,7 @@
 ### 🧩 &nbsp; About Me
 
 - 🔭 I’m currently working on Application Security and Secure Coding.
-- 🌱 I’m currently learning VAPT and Cloud Security.
+- 🌱 Learning VAPT and Cloud Security.
 - 👯 I’m looking to collaborate on Open Source Projects.
 - 🤔 I’m looking for help with Azure Security Technologies.
 - 💬 Talk to me about tech, books and ideas.
