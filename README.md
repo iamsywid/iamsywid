@@ -1,19 +1,29 @@
 ![hello, world](images/hello.svg)
 <div>Great to see you here! I hope you're doing well!</div>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/iamsywid?style=social)][twitter]
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCY_rLvoLmQqg0ffcSMOZdFA)][youtube]
+[![GitHub followers](https://img.shields.io/github/followers/iamsywid)][github]
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=social&logo=linkedin)][linkedin]
-
+[![Mastodon Follow](https://img.shields.io/mastodon/follow/110786193179231042)][mastodon]
+[![Twitter Follow](https://img.shields.io/twitter/follow/iamsywid?style=social)][twitter]
 
 ### 🧩 &nbsp; About Me
 
-- 🔭 I’m currently working on Application Security and Secure Coding.
-- 🌱 Learning VAPT and Cloud Security.
+- 🔭 I’m currently working on Application Security, Secure Coding and Threat Intelligence.
+- 🌱 Learning about Artificial Intelligence.
 - 👯 I’m looking to collaborate on Open Source Projects.
-- 🤔 I’m looking for help with Azure Security Technologies.
+- 🤔 I’m looking for help with AI Security.
 - 💬 Talk to me about tech, books and ideas.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: My profile picture is a Pawikan I met while solo traveling in Panglao, Bohol &nbsp; 🏝️
+
+### 📓 &nbsp; Writing Across the Web
+[![Static Badge](https://img.shields.io/badge/sywid.dev-blue)][sywid.dev]
+[![Static Badge](https://img.shields.io/badge/reiopd.com-red)][reiopd.com]
+[![Static Badge](https://img.shields.io/badge/devkwento-purple)][devkwento]
+[![Static Badge](https://img.shields.io/badge/devbits-green)][devbits]
+[![Static Badge](https://img.shields.io/badge/polywork-pink)][polywork]
+
 
 ### 🛠 &nbsp; Languages and Tools
 ![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=flat)
@@ -51,6 +61,13 @@ Recently trying to learn more about Zettelkasten and been exploring [Obsidian](h
 
 </details>
 
+[devbits]: https://devbits.ph/iamsywid
+[devkwento]: https://chgrace.gitlab.io/devkwento
 [github]: https://github.com/iamsywid
 [linkedin]: https://www.linkedin.com/in/christinebalanaa/
+[mastodon]: https://mastodon.social/@iamsywid
+[reiopd.com]: https://blog.reiopd.com/
+[polywork]: https://www.polywork.com/iamsywid
+[sywid.dev]: https://blog.sywid.dev/
 [twitter]: https://twitter.com/iamsywid
+[youtube]: https://www.youtube.com/@iamsywid
